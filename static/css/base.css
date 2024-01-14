@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+}
+
+.card {
+  width: 75%;
+  margin-bottom: 5px;
+}
+
+.nav-link {
+  color: white;
+}
+.navbar-brand:hover {
+  color: black;
+}
+.navbar-brand {
+  color: white;
+}
+.nav-link:hover {
+  color: black;
+}
